@@ -1,0 +1,187 @@
+body{
+	margin: 0;
+
+}
+body a {
+	color:#757575;
+}
+
+
+
+/***************** HEADER  ******************/
+
+header
+{
+margin-bottom: 100px;
+}
+
+.haut {
+	float:right;
+	list-style-type:none; 
+	padding: 16px;
+	font-family: arial; 
+	font-size: 0.8em;
+}
+
+
+a{
+	color:black;
+}
+
+a:link{
+	text-decoration:none;
+	}
+
+a:hover{
+	text-decoration: underline;
+
+}
+
+.connexion {
+	height: 18px;
+	padding: 7px;
+	background-color: #4285f4 ;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	margin-right: 18px;
+	margin-left: -2px;
+	margin-top: 20px;
+}
+
+.logo {
+	margin-top: -3px;
+}
+
+section{
+	width:100%;
+	clear:both;
+}
+
+#google {
+	padding: -30px;
+    width: 290px;
+    height: 190px;
+    display: block;
+    margin:  100px auto 0; 
+}
+
+
+                      /* -----------------barre de recherche------------------------ */
+
+
+
+
+.barre {
+	width: 600px;
+	height: 40px;
+	margin: 0 25%;
+	display: :block;
+}
+
+
+.boutton {
+    	width: 100%;
+		display: inline-block;
+		text-align:center;
+		margin-top: 30px;
+    }
+
+
+ .boutton a   {
+ 	padding : 10px 20Px 10px 20px;
+ 	background-color: #eeeeee;
+
+ }
+/*
+.search {
+	width: 150px;
+	height: 35px;
+	margin-right: 450px;
+    margin-left: 600px;
+    margin-top: 25px;
+    background-color: #c6c6c6;
+    border: transparent;
+
+}
+
+.chance {
+    width: 150px;
+	height: 35px;
+	margin-right: 290px;
+    margin-left: 440px;
+    margin-top: 25px;
+    background-color: #c6c6c6;
+    border: transparent; } 
+
+    margin-top: 150px;
+    margin-right: 150px;
+    margin-left: 350px; 
+*/
+
+
+/***************Footer*******************/
+
+
+footer {                    /********* ensemble footer **********/
+	display: inline-block;
+	background-color:#eeeeee;
+	width: 100%;
+	height: 50px;
+	bottom: 0px;
+	position: absolute;
+}
+
+.basgauche{
+	display: inline;
+	height: 20px;
+	width: 60px;
+	margin-right:50px;
+}
+
+
+
+
+.about{
+	display: inline-block;
+    text-align: right;
+    margin-left: 15px;
+    padding-top: 5pX;
+    margin-top: 10px;
+    
+}
+
+
+.basdroit{ 
+	display: inline;
+	height: 20px;
+	width: 60px;
+	margin-left: 690px;
+    
+
+ 
+
+ }
+
+.secret{
+
+ margin-right:5px;
+
+ text-align: right;
+ 
+ margin-top: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
